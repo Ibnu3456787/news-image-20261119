@@ -1,6 +1,6 @@
 # Research notes — news-image-20261119
 
-**PASS 1 — DRAFT, 07:27 WIB 19 Nov 2026. Day in progress; finalisation pass tomorrow morning.**
+**PASS 2 — FINAL, morning 20 Nov 2026 (day closed 07:00 WIB 20 Nov). 35 stories FINAL: 11 illustrated + 24 index. All verified as happened/first reported 19 Nov 2026 in any timezone.**
 
 ## Competition
 - Competition `news-image-20261119`, "Sum up 19 November's world news in one image", $250 total, 50 paid places (1st $50, 2nd $30, 3rd $15, 4th–10th $5, 11th–50th $3). Entries close **21 Nov 2026 00:00 UTC (07:00 WIB)**.
@@ -9,10 +9,11 @@
 - Yesterday's entry (20261118) submitted + accepted 19 Nov 06:55 WIB, field 10,503 entries. None of yesterday's stories is reused here unless a genuine NEW 19 Nov development exists (flagged where it applies).
 
 ## Status of this pass
-- **8 stories at PASS/verified level** (verified facts + source + timestamp; some are scheduled events verified as happening today, outcome to be confirmed in Pass 2).
-- **~13 watch items** — telegraphed for today, verified as scheduled, outcome pending.
-- **~45 candidates checked and dropped** (full list below) — mostly 18 Nov events, plus 2 republication-trap catches (Datafolha poll, Japan quake).
-- **Total draft set: 23 stories** (11 illustrated candidates + 12 index items). Pass 2 must fill ~12 more to reach 35 and confirm all watch-item outcomes.
+- **35 stories FINAL** (11 illustrated + 24 index), all verified with facts + primary/credible source + publication timestamp.
+- **All Pass 1 watch items resolved** (see "WATCH FOR TOMORROW — RESOLVED" below).
+- **All Pass 1 fixes applied** (Amnesty #11 dropped; GTA figures re-verified; Anthropic $1.08T dropped; Xavier/Akvan anchored on 19 Nov bulletins; UniCredit figure corrected to $1.4T; Lula two-stage wording; Africa fillers #21–23 all dropped after primary-source checks).
+- **Fix round 20 Nov (audit-pass2.md: 1 FAIL + 1 WEAK):** #21 Argentina/Falklands REPLACED — Foreign Ministry statement was issued Tue 17 Nov, 19 Nov items are republications (see "CHECKED AND DROPPED — Fix round"); replacement is the genuine 19 Nov Argentina October trade-surplus release. #28 figure corrected from "40+ partners" to "nearly 40 leaders" (AP wording).
+- **New Pass 2 drops: 20 candidates** (full list in "CHECKED AND DROPPED — Pass 2 additions").
 - Republication-trap rule applied throughout: for every story, earliest publication of the same figures/facts was checked; 18 Nov or earlier = rejected unless a genuine NEW 19 Nov development.
 
 ---
@@ -20,67 +21,59 @@
 ## ILLUSTRATED STORIES (top 11)
 
 ### 1. ⭐ LEAD — First-ever Xi–Putin–Trump trilateral, Shenzhen
-- **Status: SCHEDULED — outcome pending (Pass 2 must confirm it happened + outcome).** First-ever in-person meeting of the leaders of the US, Russia and China, on the sidelines of the 33rd APEC Economic Leaders' Meeting (Shenzhen, 18–19 Nov, 21 member economies, chaired by Xi).
-- Schedule (Thu 19 Nov): APEC multilateral session in the morning; Trump–Xi bilateral + working lunch in the afternoon; trilateral as the final event of Trump's visit. Trump's published schedule puts the trilateral at **14:30 Shenzhen time (06:30 UTC)** at the Kylin Villa compound, per Fox News/TASS (via eureflect, facts as of 15:35 Brussels 18 Nov); Beijing and Moscow have given no time.
-- Formal name "China-Russia-U.S. Summit" (China MFA, 16 Nov). White House confirmed 13 Nov (spokeswoman Olivia Wales); Kremlin confirmed (AP). Agenda (per White House/Kremlin): nuclear arms reduction, the Iran war; Ukraine also reported as a topic by some outlets; trade and AI. US officials: no agreement expected — talks are an entry point, not a negotiation. Trump–Putin bilateral also "slated" (Kremlin aide Ushakov via TASS; US official told ABC News 18 Nov a one-on-one would take place, no time given).
-- Context (18 Nov, NOT the story): Xi–Putin bilateral Wed; Trump–Putin handshake at the APEC welcome banquet Wed 18 Nov (political.org).
-- Sources: eureflect (facts as of 15:35 Brussels 18 Nov); thehourlynews (AP + Reuters sources); kalkine.ca (published 2026-11-18T04:33:00-05:00); theworlddata.com (APEC Summit 2026 page); newstweetnaija (published 2026-11-14T06:57:12Z, updated 2026-11-18T15:15:07Z).
+- **Status: VERIFIED — HAPPENED.** First-ever in-person three-way meeting of the leaders of the US, Russia and China, Kylin Villa, Shenzhen, on the sidelines of the 33rd APEC Economic Leaders' Meeting. Began ~16:16, ended ~18:01 Shenzhen (~90 min, ~2h late). Four-point "China-Russia-U.S. Heads of State Declaration toward Peace" published 18:55 by Xinhua/Kremlin: UN reform, more refined petroleum output, ICC jurisdiction limits, nuclear-risk dialogue ("a nuclear war cannot be won and must never be fought"). No deal on Ukraine/Iran/trade; no joint press statements. Trump–Xi separately agreed to extend the trade truce (no duration/terms given).
+- Sources: marketflux 19 Nov 01:36 ET (upd. 09:57 ET); worldpulsewire; Bernama via pjmtv (publ. 2026-11-20T05:55+07:00).
 - **Map pin: Shenzhen (22.55, 114.06).** Continent: Asia.
 
-### 2. ICJ ruling — Myanmar / Rohingya genocide case
-- **Status: SCHEDULED — outcome pending (Pass 2 must confirm ruling + result).** Public sitting Thu 19 Nov at the Peace Palace, The Hague; judgment read by ICJ President Yuji Iwasawa. **Time discrepancy to resolve in Pass 2:** mailchi.mp said 08:00 GMT; newsdeskreport said 10 am (09:00 UTC).
-- Case filed 11 Nov 2019 by The Gambia (genocide against the Rohingya); merits hearings 12–29 Jan 2026. ICJ announced 3 Nov it would deliver judgment 19 Nov 2026. The ICJ has never found a state guilty of genocide — a guilty verdict would be historic. Fears of US sanctions on judges incl. Navi Pillay.
-- Source: pollar.news, published 2026-11-18T18:08:30Z (plus ICJ announcement of 3 Nov).
+### 2. ICJ ruling — Myanmar guilty of Rohingya genocide
+- **Status: VERIFIED — GUILTY, 9–6.** First time in the ICJ's 80-year history a state has been found responsible for genocide. President Yuji Iwasawa read the ~3-hour judgment at the Peace Palace, The Hague (sitting 10:00 local / 09:00 UTC — time discrepancy resolved). Reparations ordered (amount in a later phase); safe, voluntary, dignified return of the Rohingya ordered.
+- Sources: Fortify Rights 19 Nov; Amnesty USA 19 Nov; UN media.un.org; OHCHR publ. 2026-11-19T18:59:51.
 - **Map pin: The Hague (52.09, 4.31).** Continent: Europe.
 
-### 3. GTA VI launches worldwide — midnight rollout begins
-- **Status: VERIFIED.** Grand Theft Auto VI launches Thu 19 Nov 2026 at midnight local time in each market; New Zealand first at 00:00 NZDT 19 Nov (= 11:00 UTC 18 Nov). The rollout spans the whole day across timezones — Europe and the Americas hit midnight on 19 Nov UTC. (Note: NZ-first timing is 18 Nov UTC; the global launch day is 19 Nov in every market's local date.)
-- Preorders ~15.88M units, ~$1.54B (Sensor Tower). Metacritic 99 (review embargo lifted 18 Nov). PS5/Xbox Series X|S only — no PC version at launch. $79.99 standard, $99.99 Ultimate; 212GB storage.
-- Sources: Stocktwits (published 18 Nov 2026 7:05 AM EST); TBS News (published 2026-11-18T11:30:00+06:00); jagranjosh (first published 19 Nov 2026, 01:00 IST); thegamerscut (published 2026-11-18T22:51:15Z, embargo lift).
-- **Map pin: Auckland, NZ — first launch (36.85°S, 174.76°E) → (-36.85, 174.76).** Continent: Oceania.
+### 3. GTA VI launches worldwide
+- **Status: VERIFIED.** Midnight local rollout 19 Nov, New Zealand first. Metacritic 99 CONFIRMED (150 PS5 reviews, ties Ocarina of Time record). Sensor Tower 19 Nov morning estimate ~19.1M copies / ~$1.84B (Reuters via Men's Journal, 19 Nov 17:42 EST). Pass 1 figures SUPERSEDED: 15.88M/$1.54B was the 17 Nov reading; 17.1M/$1.65B at noon 18 Nov — use the 19 Nov figures only. Also: NZ Chorus traffic peak 5.6 Tbps; Streams Charts ~7.9M concurrent viewers.
+- Sources: Reuters via Men's Journal 19 Nov 17:42 EST; Metacritic.
+- **Map pin: Auckland, NZ — first launch (-36.85, 174.76).** Continent: Oceania.
 
 ### 4. Anthropic IPO debuts on Nasdaq
-- **Status: VERIFIED as scheduled today — Pass 2 must confirm first trade / close.** Anthropic shares begin trading Thu 19 Nov 9:30am ET on Nasdaq under ticker ANT.
-- Priced $83/share (above the $70–78 range), reported 18 Nov evening — the pricing itself is 18 Nov; the TRADING DEBUT is the 19 Nov event. ~980M shares (Fast Company) vs 825M in the S-1 amendment; valuation ~$1.08T ($1.5T fully diluted). Offering closes 20 Nov; SEC declared the registration effective 18 Nov.
-- Sources: TechCrunch / Bloomberg / CNBC (18 Nov evening); Fast Company (published 2026-11-18T22:31:00Z, updated 2026-11-19T00:05:44Z); Sovereign Magazine (published 2026-11-18T23:09:39Z).
+- **Status: VERIFIED.** First trade $111.50 ~11:50 ET (+34.3% vs $83 IPO price); close $97.17 (+17.1%); high $115.10, low $92.72; volume 846M+ shares; ~$2T valuation at open; $1.76T fully diluted at close (CNN). 980M shares at $83, $81.34B raise; offering closes 20 Nov. **The "~$1.08T" figure was DROPPED as unverified — use $1.5T fully diluted at pricing / $1.76T at close.**
+- Sources: Invezz; worldmoneyroadmap publ. 2026-11-19T16:47-05:00; thebigant.
 - **Map pin: New York — Nasdaq (40.71, -74.01).** Continent: North America.
 
-### 5. Cyclone Xavier weakens to Category 4, warnings continue
-- **Status: VERIFIED (bulletin issued 18 Nov 23:54 UTC; Pass 2 to update with 19 Nov bulletins).** NEW development vs yesterday's illustrated #5 (Cat 5): Xavier has weakened. Fiji Met (RSMC Nadi) Special Weather Bulletin No. 32, issued 18 Nov 23:54 UTC: position at 18 Nov 2100 UTC — Cat 4, 945 hPa, 165 km/h sustained, gusts 230 km/h, at 10.4°S 163.8°W, moving SSW 4 km/h. Gale warning remains for Pukapuka & Nassau (northern Cook Islands). Next bulletin at/before 19 Nov 0300 UTC.
-- Source: Fiji Meteorological Service / RSMC Nadi warnings page (Special Weather Bulletin No. 32).
-- **Map pin: (10.4°S, 163.8°W) → (-10.4, -163.8).** Continent: Oceania.
+### 5. Cyclone Xavier (Cat 4) bears down on the northern Cook Islands
+- **Status: VERIFIED — anchored on 19 Nov bulletins.** Fiji Met (RSMC Nadi) Special Weather Bulletin No. 37, issued 19 Nov 21:03 UTC: Cat 4, 925 hPa, 10.8°S 162.8°W, 315 km ENE of Nassau; storm alert for Nassau, gale alert Suwarrow & Pukapuka. MetService NZ bulletin issued 12:38pm Thu 19 Nov: Cat 4, 945 hPa, 10.5S 163.8W, 240 km NE of Pukapuka. >300 people evacuated to Pukapuka shelter; 2 NZ rapid-response personnel arrived.
+- Sources: Fiji Meteorological Service / RSMC Nadi (Bulletin No. 37); MetService NZ.
+- **Map pin: (-10.8, -162.8).** Continent: Oceania.
 
-### 6. Cyclone Akvan strengthens in the Bay of Bengal
-- **Status: VERIFIED forecast — Pass 2 must confirm intensification.** Severe cyclonic storm 18 Nov; IMD forecast: becomes a very severe cyclonic storm by evening 19 Nov. Landfall ~noon 20 Nov between Nellore and Visakhapatnam, winds 120–130 km/h gusting 145 km/h; extremely heavy rainfall ≥21 cm on 19–20 Nov (Andhra Pradesh / Odisha coast).
-- Sources: IMD National Bulletin No. 20 (issued 0400 IST 18 Nov); IMD Press Bulletin 10 (1030 IST 18 Nov).
-- **Map pin: Bay of Bengal, approx (12.7, 85.5).** Continent: Asia.
+### 6. Cyclone Akvan, Bay of Bengal
+- **Status: VERIFIED — latest 19 Nov IMD bulletins.** IMD National Bulletin No. 29, 0900 IST 19 Nov: Severe Cyclonic Storm, 14.5°N 85.3°E, 90–100 km/h gusting 110. **Very-severe intensification did NOT happen** (forecast dropped in the 18 Nov 09:30 bulletin); landfall revised to Narsapur–Puri, near Gopalpur, by noon 20 Nov; ≥21 cm rain 19–20 Nov; storm surge 0.5–1.0 m; red message.
+- Source: IMD National Bulletin No. 29 (0900 IST 19 Nov).
+- **Map pin: (14.5, 85.3).** Continent: Asia.
 
 ### 7. India–Japan 2+2 ministerial dialogue, Tokyo
-- **Status: VERIFIED as scheduled today — Pass 2 must confirm outcome / joint statement.** 4th India–Japan 2+2 dialogue, Tokyo, 18–19 Nov; the ministerial meeting is scheduled for 19 Nov (defenceaviationpost). Ministers: Rajnath Singh (Defence) and S. Jaishankar (External Affairs) with Shinjiro Koizumi (Defence) and Toshimitsu Motegi (Foreign Affairs).
-- Sources: defenceaviationpost; mirrornow (published 2026-11-19T05:22:48+05:30 = 18 Nov 23:52 UTC, "ahead of" the dialogue).
+- **Status: VERIFIED — joint statement issued 19 Nov.** Supply-chain resilience, undersea connectivity, mutual UNSC permanent-seat support, LeT/JeM/Al Qaeda/ISIS named, UNICORN mast (Acceptance of Necessity by Feb 2027), LOI for JSDF live-fire ranges in India, "Design with Japan, Make in India".
+- Sources: ANI via dailyprabhat publ. 2026-11-19 21:52:59; Hindu BusinessLine 19 Nov; TradingView publ. 2026-11-19T15:20:58Z.
 - **Map pin: Tokyo (35.68, 139.69).** Continent: Asia.
 
-### 8. COP31 — new texts due as talks enter final stretch
-- **Status: SCHEDULED — outcome pending (Pass 2 must confirm texts + any deals).** New negotiating texts due early Thursday at COP31 (Antalya); 21 issues unresolved (adaptation, finance, mitigation, just transition). COP31 closes Friday 20 Nov.
-- Source: UN News, published 2026-11-18T14:04:40-05:00.
-- **Map pin: Antalya (36.90, 30.71).** Continent: Europe (Turkey; COP31 host).
+### 8. COP31, Antalya — slimmed draft, fossil-fuel language dropped
+- **Status: VERIFIED.** Slimmed draft cover decision published Thu 19 Nov 14:10: 144→80 paragraphs; fossil-fuel language REMOVED entirely; $120B adaptation target dropped (tripling by 2035 retained); electricity 35% by 2035; first acknowledgement warming will exceed 1.5°C.
+- Sources: Reuters 19 Nov 12:13 UTC (via 985theriver, publ. 2026-11-19T12:13:02Z); UN News 19 Nov.
+- **Map pin: Antalya (36.90, 30.71).** Continent: Europe.
 
 ### 9. UniCredit–Commerzbank reach broad agreement
-- **Status: VERIFIED. ⚠️ TIMEZONE-EDGE (1 of max 2):** Reuters published 2026-11-18T23:08:21Z = 00:08 CET 19 Nov, and Reuters datelined the item BERLIN, Nov 19. Kept on the dateline + local-date basis (contrast: the Palantir item, published later the same night but datelined Nov 18, was dropped).
-- Broad agreement on the sticking points of UniCredit's takeover of Commerzbank; CEO Andrea Orcel's letter to Finance Minister Klingbeil dated 18 Nov. The merged bank's German HQ stays in Frankfurt as a listed entity. Combined assets >€1.3T ($1.43T).
+- **Status: VERIFIED. ⚠️ TIMEZONE-EDGE (1 of max 2 — the ONLY one kept):** Reuters published 2026-11-18T23:08:21Z = 00:08 CET 19 Nov, Reuters datelined BERLIN, Nov 19. Broad agreement on the sticking points of UniCredit's takeover of Commerzbank; CEO Andrea Orcel's letter to Finance Minister Klingbeil dated 18 Nov. Merged bank's German HQ stays in Frankfurt as a listed entity. Combined assets >€1.3T **($1.4T) — VERIFIED via Reuters; Pass 1 "$1.43T" corrected.**
 - Source: Reuters, BERLIN, Nov 19 (published 2026-11-18T23:08:21Z).
 - **Map pin: Frankfurt (50.11, 8.68).** Continent: Europe.
 
-### 10. Lula to sign decree ending Brazil's 6x1 workweek
-- **Status: VERIFIED as scheduled today — Pass 2 must confirm the signing happened.** Signing scheduled Thu 19 Nov 09:00 at the Palácio do Planalto, Brasília. New 5x2 schedule begins 16 Dec. Congress approved ending the 6x1 shift last month: 44→40 weekly hours, two paid days off per week, no salary reduction.
-- Source: Particle.news, published 2026-11-18T08:38:31Z.
+### 10. Lula signs decree ending Brazil's 6x1 workweek
+- **Status: VERIFIED — SIGNED Thu 19 Nov, Decreto nº 13.173.** TWO-STAGE wording: 44→42 hours on 16 Dec 2026, then 42→40 on 16 Dec 2027; two paid rest days from 16 Dec; no salary reduction; ~14.8M workers on 6x1 directly affected.
+- Source: Particle.news publ. 2026-11-19T15:58:53Z.
 - **Map pin: Brasília (-15.79, -47.88).** Continent: South America.
 
-### 11. Amnesty: RSF drone strikes in El Obeid killed 37 civilians
-- **Status: VERIFIED. ⚠️ TIMEZONE-EDGE (2 of max 2):** amnesty.org.au dated 19 November 2026; published 2026-11-18T21:42:17Z = 08:42 AEDT 19 Nov (Sydney). The REPORT is the 19 Nov news; the underlying strikes are June–Aug 2026 (flagged, not hidden).
-- Amnesty investigation of 9 RSF drone strikes in El Obeid, Sudan, June–Aug 2026: 37 civilians killed, 10 injured. Calls for a war-crimes investigation.
-- Source: Amnesty International Australia, amnesty.org.au, dated 19 November 2026 (published 2026-11-18T21:42:17Z).
-- **Map pin: El Obeid (13.18, 30.22).** Continent: Africa.
+### 11. Kenya awards Mrima Hill minerals to US-led consortium
+- **Status: VERIFIED — NEW Africa illustrated (replaces dropped Amnesty #11).** Announced Thu 19 Nov by Mining CS Hassan Joho: Frontier Minerals Consortium (Frontier Minerals LLC, Bunker Hill, ReElement, American Resources) selected for Mrima Hill niobium/rare earths, Kwale County; Notice of Intention to Award issued; RareX/Iluka ranked 2nd and will challenge by 10 Dec. Deposit value estimates vary (>$60B per BBC/The Star; "tens of billions, preliminary" per Africa Briefing) — do not state a single value as fact.
+- Sources: Capital FM publ. 2026-11-19T15:21:48+03:00; Channel 15 News publ. 2026-11-19T20:44:18Z; Discovery Alert.
+- **Map pin: Mrima Hill, Kwale County, approx (-4.43, 39.25).** Continent: Africa.
 
 ---
 
@@ -90,52 +83,98 @@
 - 4:30 a.m. 19 Nov local (20:30 UTC 18 Nov), 20 km WNW of Ayungon, Negros Oriental (9.92°N, 122.97°E), depth 10 km. PHIVOLCS Earthquake Information No. 1 issued 4:36 a.m. Max Intensity II; no damage or aftershocks expected. 19 Nov in the Philippines.
 - Source: breakingnewsnegor.com citing PHIVOLCS. Continent: Asia.
 
-### 13. ATP Finals, Turin — Zverev vs Fils closes group play
-- Thursday: Zverev vs Fils (John McEnroe Group final group match) plus doubles matches. Pass 2: confirm results. (Tiafoe beat Cobolli Wed night — already yesterday's #31, do NOT reuse.)
-- Source: ATP Finals schedule / tournament reporting. Continent: Europe. Turin (45.07, 7.69).
+### 13. ATP Finals, Turin — Zverev beats Fils
+- Zverev beat Fils 6-4, 7-6(6); Fils saved 5 match points at 6-1 in the tiebreak; Zverev 3-0 in group, no sets dropped; Shelton through as runner-up (beat Jodar 7-6(8), 7-5 earlier Thu). Caution: one source wrongly said Fils had no wins — use Tennis Majors (Fils 1-2).
+- Source: Tennis Majors publ. 2026-11-19T21:27:04Z. Continent: Europe. Turin (45.07, 7.69).
 
-### 14. House Democrats vote Thursday for policy-comms co-chair
-- Democrats vote Thu for a member to take the open Policy and Communications Committee co-chair role (Underwood's old seat). NOTE: the vice-chair race itself was decided WEDNESDAY 18 Nov — Underwood beat Jacobs 143-118 (Bloomberg Government, published 2026-11-18T19:01:55Z) — do NOT use that as a 19 Nov story. The Thursday vote is the remaining item; Pass 2: confirm result.
-- Source: Bloomberg Government (news.bgov.com), published 2026-11-18T19:01:55Z. Continent: North America. Washington DC (38.90, -77.04).
+### 14. House Democrats elect Sarah McBride DPCC co-chair
+- McBride elected DPCC co-chair Thu, **248 votes** (Axios/C-SPAN tally; her office says 238 — discrepancy recorded, lead with 248), most of 4 candidates for 3 seats; Frost 195, Kamlager-Dove 180; first trans person elected to congressional leadership; Dingell re-elected DPCC Chair.
+- Sources: Erin in the Morning publ. 2026-11-19T18:44:08Z; Washington Blade 21:36:29Z. Continent: North America. Washington DC (38.90, -77.04).
 
-### 15. Hegseth visits Honduras
-- Defence Secretary Pete Hegseth visits Honduras on Thursday, after Caracas on Wed 18 Nov. Pass 2: confirm visit + any announcement.
-- Source: La Prensa via alpress. Continent: North America (Central America). Tegucigalpa (14.07, -87.19) — exact location TBD.
+### 15. Hegseth arrives in Honduras
+- Defence Secretary Pete Hegseth arrived in Honduras 19 Nov, on a four-country tour (Venezuela, Colombia, Ecuador, Honduras).
+- Sources: Honduras Daily 19 Nov edition; DNews video. Continent: North America (Central America). Tegucigalpa (14.07, -87.19).
 
-### 16. NASA Voyager 1 — "Light-Day" presser (conditional)
-- "Voyager 1 Light-Day Mission Update and Conversation", Thu 19 Nov 12:00 EST (17:00 UTC); signal arrives ~10:16 UTC 19 Nov. The milestone itself (crossing one light-day) was 18 Nov 10:16 UTC and was yesterday's index #12. KEEP ONLY if the presser yields something newsworthy; Pass 2 decides.
-- Source: NASA/JPL event listing. Continent: North America. Pasadena/JPL (34.15, -118.14).
+### 16. NASA Voyager 1 — "Light-Day" presser
+- Presser held Thu 19 Nov 12:00 EST at JPL; signal confirming one light-day received ~5am EST Thu; power expected until 2036; newsworthy: NASA has not been able to receive scientific data from Voyager 1 as of a few days ago. (The one-light-day milestone itself was 18 Nov and was yesterday's index #12 — the presser + data-loss news is the 19 Nov story.)
+- Source: Scientific American 19 Nov 2026. Continent: North America. Pasadena/JPL (34.15, -118.14).
 
-### 17. Huawei jury verdict possible
-- Jury deliberations began Wed 18 Nov; a verdict could come Thu 19 Nov. Pass 2: confirm whether a verdict landed.
-- Source: court reporting, 18 Nov. Continent: North America. Brooklyn, NY (40.69, -73.99).
+### 17. Gaza operation completed
+- Israeli operation in central Gaza (began Wed 18 Nov) completed Thu 19 Nov; Salah al-Din road reopened; ~6,000 displaced (Hamas govt media office via Reuters); 3 killed Wed.
+- Sources: crisis.zone publ. 19 Nov 10:19; thelibraryestate upd. 19 Nov 12:06 PT. Continent: Asia. Gaza (31.50, 34.47).
 
-### 18. Las Vegas GP — first practices (timing caveat)
-- FP1 Thu 19 Nov 4:30pm PT (00:30 UTC 20 Nov), FP2 8pm PT (04:00 UTC 20 Nov); rain showers likely Thu. Round 21 of 23; Apple TV streaming free in the US. CAVEAT: sessions start after the 19 Nov UTC day closes (00:00 UTC 20 Nov) but are 19 Nov in Las Vegas local time; FP1 ends 01:30 UTC 20 Nov (08:30 WIB) — results may arrive after Pass 2's morning window. Usable only if Pass 2 runs late morning or the composition pass picks it up; otherwise drop.
-- Source: Las Vegas GP schedule reporting. Continent: North America. Las Vegas (36.11, -115.17).
+### 18. Iran / Strait of Hormuz — IRGC tanker claim (UNCONFIRMED)
+- IRGC Navy claim Thu 19 Nov — two supertankers hit mines, >4M barrels, burning — **UNCONFIRMED** (no names/flags, no UKMTO advisory, no US response); Qatar called the escalation "dangerous". Also Iran FM statement Thu defending its response. Frame strictly as an unconfirmed claim.
+- Sources: thelibraryestate publ. 19 Nov 03:07 PT (upd. 12:47 PT); bugoutguide. Continent: Asia.
 
-### 19. Gaza ground operation continues
-- Israel's ground operation beyond the Yellow Line began Wed 18 Nov (Reuters 18 Nov). Watch for 19 Nov developments: end of operation, casualties, reactions. Pass 2: confirm a NEW 19 Nov development or drop.
-- Source: Reuters, 18 Nov (background). Continent: Asia. Gaza (31.50, 34.47).
+### 19. Kerch Bridge — third strike in four days
+- Overnight 18–19 Nov, Neptune missiles hit the rail section, rail traffic halted (AP 19 Nov 13:36 UTC; Euronews 12:07 UTC); road section already destroyed Tue; Putin rejected ceasefire talks 19 Nov. Note: Kerch was the lead of the 20261117 entry, but this is a genuine NEW 19 Nov development.
+- Sources: AP 19 Nov 13:36 UTC; Euronews 12:07 UTC. Continent: Europe.
 
-### 20. Iran / US Gulf tensions — tit-for-tat watch
-- KBA13 assessment (18 Nov update): tit-for-tat likely continues through the next 72h; first signpost is the Shenzhen trilateral outcome. Watch for any 19 Nov incident or statement. Pass 2: confirm a NEW 19 Nov development or drop.
-- Source: KBA13 assessment, 18 Nov. Continent: Asia.
+### 20. TSMC/Samsung chip pause
+- FT reported Thu 19 Nov — both suspended some chip shipments to Chinese customers pending US licences; BIS rule "Addressing Remote Access to Advanced Semiconductors" published in the Federal Register 19 Nov, effective immediately; TSMC halted 16nm-and-below orders without licences. Frame as reported suspensions, not a ban (a TSMC insider later denied a full halt).
+- Source: FT via reporting 19 Nov; US Federal Register 19 Nov. Continent: Asia.
 
-### 21. Ghana banks' bad loans fall to 13.1%
-- Ghana banks' non-performing loans declined to 13.1% in Oct 2026. Minor filler. ⚠️ From aggregator (AfricaFrontPage, last updated 19 Nov 2026 00:24 GMT); Pass 2 must verify the primary source (MyJoyOnline, 19 Nov 00:05 GMT) + earliest publication (republication check).
-- Source: MyJoyOnline via AfricaFrontPage. Continent: Africa. Accra (5.60, -0.19).
+### 21. Argentina logs record October trade surplus
+- INDEC released October trade data Thu 19 Nov: exports $10.06B (+26.4% y/y, a new monthly record), imports $6.67B (-6.7%), trade surplus $3.39B — above the $2.98B surplus in September. Economy Minister Luis Caputo posted the record on X Thu 19 Nov 16:21.
+- Sources: Reuters via TradingView publ. 2026-11-19T19:07:20Z ("the government's statistics office said on Thursday"); DNews video (INDEC data); Trading Economics release calendar (Oct Balance of Trade released 19 Nov 19:00). Continent: South America. Buenos Aires (-34.60, -58.38).
+- Republication-trap check (fix round): earliest publication of the $3.39B / $10.06B October figures is 19 Nov (Reuters 19:07Z; Caputo X 16:21). The similar $2.98B / $10.04B figures are September's, published 19–20 Oct — a different month, not a republication of this release.
 
-### 22. Morocco defence industry roadmap — 50,000 jobs by 2035
-- Morocco's defence industry roadmap targets 50,000 jobs and 65% export revenue by 2035. Minor filler. ⚠️ From aggregator (AfricaFrontPage); Pass 2 must verify the primary source (Hespress, 19 Nov 00:00 GMT) + earliest publication.
-- Source: Hespress via AfricaFrontPage. Continent: Africa. Rabat (34.02, -6.84).
+### 22. Colombia president denies NYT claim
+- President De La Espriella denied the NYT report (publ. 19 Nov 01:29 UTC) that he rejected a US Title 10 joint-ops deal; Hegseth reworked his tour to a brief Bogotá stop. Frame both sides.
+- Source: Breitbart 19 Nov 10:42 PST. Continent: South America.
 
-### 23. Côte d'Ivoire — Koné mine item
-- Koné mine item reported 19 Nov (Linfodrome, 19 Nov 00:10 GMT, via AfricaFrontPage). Minor filler; details not yet verified. ⚠️ Pass 2 must open the primary source, verify facts + earliest publication, or drop.
-- Source: Linfodrome via AfricaFrontPage. Continent: Africa.
+### 23. Peres Jepchirchir doping ban
+- AIU announced Thu 19 Nov — 3-year EPO ban, Sydney Marathon title stripped, results DQ from 17 July 2026, out of LA 2028; also Veronica Loleo (3y EPO) and Ronald Korir (6y, biological passport) same day.
+- Sources: ESPN 19 Nov 14:49; Athletics Weekly publ. 2026-11-19 09:49:02. Continent: Africa.
 
-### 24–35. TO BE FILLED IN PASS 2
-- The day is in progress (07:27 WIB). Pass 2 (tomorrow morning, after the day closes 07:00 WIB 20 Nov) must add ~12 more verified stories to reach 35, prioritising: Africa (beyond Sudan/Ghana/Morocco), South America (beyond Lula), Oceania (beyond GTA/Xavier), and any breaking 19 Nov news (US markets close, evening sports, late statements).
+### 24. South Africa beat Bangladesh, 1st Test
+- Won by 9 wickets on day 5, 19 Nov, Wanderers; Harmer 6/51; SA top of WTC standings. Skip crictracker's "130-year-old record" claim (unverified).
+- Sources: Cricinfo publ. 2026-11-19T10:30:00Z; ICC publ. 2026-11-19T12:07:25Z. Continent: Africa.
+
+### 25. Kenya mosquito-net campaign launches
+- Launched Thu 19 Nov at Bayula Stadium, Sirisia, Bungoma; 10.8M insecticide-treated nets, 18 counties, 99 sub-counties; WHO-backed; dual-active-ingredient nets; household ownership down to 41% from 54% (2022).
+- Source: hivileo publ. 2026-11-19T16:03:20+03:00. Continent: Africa.
+
+### 26. Wall Street sell-off
+- Dow -1,101 (-2.19%) to 49,097.06 (below 50,000), Nasdaq -2.25% to 23,879.20 (lowest close since 14 Apr / 7 months), S&P -2.02% to 7,175.83 (6th straight loss); sell-off began after Anthropic's first trade.
+- Source: dpa-AFX via TradingView publ. 2026-11-19T21:32:32Z. Continent: North America.
+
+### 27. Senegal budget decree
+- President Faye ordered the 2026 revised budget into force by decree Thu 19 Nov (AFP publ. 2026-11-19T11:18:35Z), after parliament rejected the 2026 budget (3 Nov) and 2027 budget (18 Nov); $2.2B IMF programme at stake; debt 132% of GDP; Pastef expelled Faye Tue 17 Nov (context).
+- Source: AFP publ. 2026-11-19T11:18:35Z. Continent: Africa.
+
+### 28. Berlin — Coalition of the Willing meets
+- Zelenskyy + nearly 40 leaders met in Berlin Thu 19 Nov; Witkoff/Kushner attended; Trump called in after the Shenzhen meeting; Kushner said the US had brought Russia around to Article 5-style security guarantees for Ukraine; proposed four-party format (Ukraine, Europe, US, Russia), date unsettled.
+- Sources: Reuters BERLIN Nov 19 publ. 2026-11-19T00:11:04Z; thelibraryestate update Thu 19 Nov; h.ua 19 Nov 14:42 UTC. Continent: Europe. Berlin (52.52, 13.40).
+
+### 29. Albanese tells Putin: "end your war, end it now"
+- PM Anthony Albanese told Putin directly at APEC Shenzhen: "I say very directly to President Putin: end your war, end it now" — looked directly at Putin, with Trump and Xi in the room; Putin reportedly kept his head down. Followed criticism at home over Albanese appearing in photos with Putin.
+- Sources: Guardian Australia publ. 19 Nov 2026 15:36; ABC News live 19 Nov. Continent: Oceania. Shenzhen (22.55, 114.06).
+
+### 30. Melbourne Cup trophies — fourth cup revealed stolen, two charged
+- Victoria Police revealed Thu 19 Nov a fourth Melbourne Cup stolen (12 Nov, Flemington; replica/unspecified year) on top of Makybe Diva's three (2003/04/05, ~$1M each, stolen 16 Nov ~06:30) + the 1948 Caulfield Cup (Red Fury, stolen 4–11 Nov); two men charged (39yo Elsternwick, 36yo Mount Waverley) and faced Melbourne Magistrates' Court Thu; all five trophies still missing. (The thefts themselves were 4–16 Nov; the 19 Nov news is the police reveal + charges + court appearances.)
+- Sources: Victoria Police statement Thu 19 Nov 16:04; AAP publ. 2026-11-19T09:32:58Z. Continent: Oceania. Melbourne (-37.81, 144.96).
+
+### 31. Kwara prison break — NCoS chief blames negligence ⚠️ BORDERLINE
+- Two death-row inmates (Segun and Abraham) escaped Oke-Kura Custodial Centre, Ilorin, in the early hours of Wed 18 Nov. The 19 Nov news is NCoS Controller-General Sylvester Nwakuche's on-site visit Thu 19 Nov, blaming staff negligence and ordering a manhunt/probe. Abraham is a repeat escapee (Mandala). Frame as the 19 Nov NCoS response, NOT the escape itself.
+- Sources: The Punch via AfricaFrontPage (19 Nov 22:06 GMT); News Central TV 19 Nov 23:44. Continent: Africa. Ilorin (8.50, 4.55).
+
+### 32. NSA classified network still down on third day
+- NSANet still down/partly degraded Thu 19 Nov, third straight day (outage began Tue 17 Nov during maintenance); Georgia facility (Fort Gordon, Middle East SIGINT/cyber) hit, staff unable to reach deployed personnel, relied on backups; DNI Jay Clayton linked the cause to urgent PHP patching ("PHP2Shell" flaws); officials: no cyberattack, mission-critical capabilities fully operational.
+- Sources: Particle.news publ. 2026-11-19T17:09:57Z; CNN via The Independent; NBC News. Continent: North America. Fort Meade (39.11, -76.74).
+
+### 33. Kenya Red Cross boosts flood response with 31 boat engines
+- Kenya Red Cross boosted flood response capacity with 31 outboard boat engines donated by the ICRC, announced Thu 19 Nov; heavy rains cut off communities (Tana River cited); engines for water rescues and relief delivery where roads impassable. Context: Kenya floods killed 6, affected 1,141 households (Red Cross figures via Nation).
+- Source: Capital FM publ. 2026-11-19T20:15:00+03:00. Continent: Africa. Nairobi (-1.29, 36.82).
+
+### 34. Indonesia passes asset-forfeiture law after 18 years
+- DPR passed the Asset Forfeiture Bill into law Thu 19 Nov in a plenary chaired by Speaker Puan Maharani, ending an 18-year wait (first proposed 2008); non-conviction-based forfeiture for corruption and other crimes, Rp 1bn floor; new independent Asset Management Body (Badan Pengelola Aset Rampasan) reporting to the President; law takes effect 12 months after promulgation.
+- Sources: Reuters via worldnews.market publ. 2026-11-19T08:10:21Z; Media Selangor/Antara publ. 2026-11-19T13:02:07Z. Continent: Asia. Jakarta (-6.21, 106.85).
+
+### 35. Oceania Challenge bowls — Day 1, Ōrewa
+- 2026 Oceania Challenge opened Thu 19 Nov at Bowls Ōrewa, Auckland (19–22 Nov, 10 teams). Day 1: Australia's Brad Pavey 3 wins/1 loss in men's singles (qualified for finals); Chanel Chakouch topped the women's singles section; men's fours (Wilson, Clarke, Nelson, Lynch) unbeaten.
+- Source: Bowls Australia, 19 Nov 2026. Continent: Oceania. Ōrewa, Auckland (-36.59, 174.70).
 
 ---
 
@@ -143,6 +182,30 @@
 
 Each candidate below was checked and rejected, with the reason. (Section D rule: document every drop.)
 
+### Pass 2 additions
+- **#21 Argentina condemns Princess Anne's Falklands visit — DROPPED IN FIX ROUND (audit FAIL).** The Argentine Foreign Ministry statement was issued **Tue 17 Nov**, not 19 Nov (particle.news overview publ. 2026-11-18T02:49:00Z; ameriledger 19 Nov: "on Tuesday"; democrata.es 18 Nov: "this Tuesday"). The 19 Nov items (azernews 11:33 UTC etc.) are republications of the 17 Nov statement — the exact republication trap from 20261118. No genuine 19 Nov Argentine statement/action found. REPLACED (D.11) with the Argentina October trade-surplus release (INDEC, Thu 19 Nov).
+- **#11 Amnesty El Obeid** — primary amnesty.org published 18 Nov 04:23 UTC; the .au 19 Nov date is a regional mirror/republication (per verification-pass1.md). DROPPED entirely; replaced as Africa illustrated by #11 Kenya Mrima Hill. Do NOT replace with another timezone-edge item.
+- **#17 Huawei verdict** — no verdict Thu; jury ended its first full day of deliberations without a verdict; asked for ex-HSBC banker testimony (MLex 19 Nov 22:40 GMT).
+- **#18 Las Vegas GP FP1/FP2** — 2026 results did not exist yet at Pass 2 time (FP1 starts 16:30 PT = 00:30 UTC 20 Nov = 07:30 WIB 20 Nov); search results heavily polluted with 2024/2025 content — do not reuse.
+- **#21 Ghana NPL 13.1%** — figure from Bank of Ghana MPC briefing Wed 18 Nov (Pure TV 18 Nov 15:43 UTC; Business Post 18 Nov 17:55); 19 Nov items are republications. (BoG rate cut 14%→11% also 18 Nov.)
+- **#22 Morocco defence roadmap** — working session was Wed 18 Nov (King chaired 18 Nov); 19 Nov items report the 18 Nov event.
+- **#23 Koné mine, Côte d'Ivoire** — inauguration was 12 Nov (L'Infodrome 12 Nov; AMA 13 Nov).
+- **SWISSAID UAE gold $56.7B** — report "Laundered in the Emirates" published 12 Nov (Ghana Guardian explicit); 19 Nov OkayAfrica piece is a roundup republication.
+- **Kenya–Anthropic AI partnership** — signed 22 Sept 2026.
+- **IMF–Egypt $2.3B** — IMF statement was 18 Nov evening; 19 Nov articles report the 18 Nov event.
+- **AFCON 2027 nine qualifiers** — confirmed after Matchday 4 on 16–17 Nov; 19 Nov articles are roundups.
+- **Julio Iglesias investigation** — court ruling made public Wed 18 Nov; 19 Nov articles report it.
+- **ExxonMobil–Venezuela MoU** — signed Mon 9 Nov.
+- **Venezuela–US military deal (Hegseth Caracas signing)** — signed Wed 18 Nov; 19 Nov coverage is republication. Context for Hegseth tour only.
+- **Democrats' Venezuela oil probes** — Bloomberg story 17 Nov (bgov publ. 2026-11-17T12:57:26Z); the 19 Nov wegotthiscovered piece follows the 17 Nov report.
+- **South Africa El Niño water restrictions** — Cape Town Level 1 restrictions from 1 Dec announced 16 Nov; Johannesburg restrictions from 21 Nov instituted Wed 18 Nov; Daily Maverick "super El Niño" piece (19 Nov 22:55 GMT) is a follow-up. No new 19 Nov development.
+- **Tatjana Smith / Swimming SA inquiry** — announced Tue 17 Nov (Daily Maverick 17 Nov; Reuters 18 Nov); 19 Nov pieces are republications.
+- **Caribbean Princess GI outbreak (148 ill)** — reported to CDC 15 Nov, CDC report published 17 Nov; 19 Nov items are follow-ups. (The hantavirus MV Hondius story is May 2026, not 19 Nov.)
+- **Rodríguez–Lula COP31 meeting** — met 11 Nov, not 19 Nov.
+- **Australia unemployment 4.9%** — first reported 18 Nov.
+- **Bancroft sandpapergate** — running story since 8 Nov; no clean 19 Nov event.
+
+### Pass 1 drops (unchanged)
 **18 Nov events (event or first report on 18 Nov, no new 19 Nov development):**
 - Australia sanctions on Israeli settlers — Reuters SYDNEY Nov 18 (published 2026-11-17T23:54:57Z = 18 Nov Sydney).
 - Ted Lieu elected House Democratic Caucus chair — Wed 18 Nov morning (Politico 2026-11-18T09:43-05:00).
@@ -161,8 +224,8 @@ Each candidate below was checked and rejected, with the reason. (Section D rule:
 - Saudi "danger has passed" (Jazan, Najran, Khamis Mushait) — Reuters 18 Nov 09:39 UTC.
 - Darmanin/Mélenchon — Reuters 18 Nov 10:15 UTC; interview was Tuesday.
 - France Volia mission — RFI reported 16 Nov; confirmed 17 Nov.
-- Hegseth Caracas visit — Wed 18 Nov (Reuters 2026-11-18T17:57:56Z). Honduras Thu is a watch item (#15).
-- Israel Gaza ground operation beyond Yellow Line — began Wed 18 Nov (Reuters 18 Nov). Continuation is watch item #19.
+- Hegseth Caracas visit — Wed 18 Nov (Reuters 2026-11-18T17:57:56Z). Honduras Thu is index #15.
+- Israel Gaza ground operation beyond Yellow Line — began Wed 18 Nov (Reuters 18 Nov). Its completion Thu is index #17.
 - IAEA Yongbyon enrichment extension — Grossi told the Board 18 Nov (Reuters 2026-11-18T13:38:40Z).
 - Duckett 133, England–Australia 3rd ODI — 18 Nov (cricket.com.au published 2026-11-18T11:25:00Z).
 - Tiafoe beat Cobolli 7-6(6), 6-0; Alcaraz beat Medvedev — Wed 18 Nov night; already yesterday's #31.
@@ -170,7 +233,7 @@ Each candidate below was checked and rejected, with the reason. (Section D rule:
 - Curry knee cartilage — ESPN interview published 17 Nov.
 - Takaichi–Putin meeting and Xi–Takaichi handshake — Wed 18 Nov.
 - Pew projection (Muslims outnumber Christians by 2035) — released Wed 18 Nov.
-- Huawei jury deliberations began — Wed 18 Nov (verdict is watch item #17).
+- Huawei jury deliberations began — Wed 18 Nov (verdict is watch item #17, dropped in Pass 2 — no verdict Thu).
 - Somalia/UAE accusation — televised address Tue 17 Nov.
 - PancakeSwap rebrand — 18 Nov (Chainwire).
 - Sudan SAF West Kordofan gains — underlying events 13–14 Nov; weak source (sangaku-journal, published 2026-11-18T23:00:11Z).
@@ -185,8 +248,8 @@ Each candidate below was checked and rejected, with the reason. (Section D rule:
 - Fiji state of disaster / drought declaration — 18 Nov, already yesterday's #19.
 - Brazil Senate $10bn fiscal package — 18 Nov, already yesterday's #35.
 - Ebola update — podiumnews published 2026-11-19T00:21:22Z but underlying data is the CDC update of 18 Nov (data through 16 Nov) + WHO remarks of 17 Nov; also already yesterday's illustrated #6.
-- Kerch Bridge damage — already the 20261117 entry's lead.
-- Voyager 1 one-light-day milestone — crossed 18 Nov 10:16 UTC, yesterday's index #12. Only the 19 Nov presser is a (conditional) watch item (#16).
+- Kerch Bridge damage — already the 20261117 entry's lead. (The 19 Nov third strike IS index #19 — genuine new development.)
+- Voyager 1 one-light-day milestone — crossed 18 Nov 10:16 UTC, yesterday's index #12. Only the 19 Nov presser is index #16.
 - Cyclone Xavier as Cat 5 — yesterday's illustrated #5. Today's story is the weakening (#5).
 
 **Republication trap catches (dated 19 Nov / 18 Nov but the underlying event is older):**
@@ -195,45 +258,55 @@ Each candidate below was checked and rejected, with the reason. (Section D rule:
 
 ---
 
-## CONTINENTS COVERED (Pass 1)
+## CONTINENTS COVERED (FINAL — 35 stories)
 
-- **Africa** — Amnesty Sudan report (#11, illustrated); Ghana NPL (#21); Morocco defence roadmap (#22); Côte d'Ivoire Koné mine (#23). THIN — Pass 2 should add 1–2 more verified African stories.
-- **Asia** — Trilateral Shenzhen (#1, LEAD); Akvan (#6); India–Japan 2+2 (#7); Negros quake (#12); Gaza (#19, watch); Iran/Gulf (#20, watch). STRONG.
-- **Europe** — ICJ ruling (#2); COP31 (#8); UniCredit (#9); ATP Finals (#13). STRONG.
-- **North America** — Anthropic IPO (#4); House Dems vote (#14); Hegseth Honduras (#15); Voyager presser (#16, conditional); Huawei verdict (#17, possible); Las Vegas GP (#18, timing caveat). STRONG on count, but several are conditional — Pass 2 must confirm.
-- **Oceania** — GTA VI first launch (#3, illustrated); Cyclone Xavier (#5, illustrated). THIN on count (2 stories, both illustrated) — Pass 2 should add 1–2 more (Australia/NZ/Pacific) if verifiable.
-- **South America** — Lula 5x2 decree (#10, illustrated). THIN — only 1 story; Pass 2 priority to add 1–2 more.
-
----
-
-## WATCH FOR TOMORROW (Pass 2 — after the day closes 07:00 WIB 20 Nov)
-
-Confirm each item's outcome with a primary/credible source + timestamp; drop any that did not produce a NEW 19 Nov development.
-
-1. **Xi–Putin–Trump trilateral, Shenzhen (14:30 Shenzhen time, 06:30 UTC)** — confirm it happened; outcome (joint statement? arms-control agreement? Iran/Ukraine language?). Also confirm the Trump–Xi bilateral + working lunch outcome and any Trump–Putin one-on-one. LEAD candidate; the whole entry's framing depends on the outcome.
-2. **ICJ ruling, Myanmar/Rohingya (The Hague)** — confirm the verdict (guilty/not guilty/partial), key findings, reactions. Resolve the sitting time (08:00 GMT vs 10 am).
-3. **Anthropic IPO debut (Nasdaq, 9:30am ET)** — confirm first trade price, opening pop, close.
-4. **Lula 5x2 decree signing (Brasília, 09:00)** — confirm the signing happened; any ceremony details.
-5. **India–Japan 2+2 outcome (Tokyo)** — joint statement / agreements.
-6. **COP31 new texts (Antalya)** — confirm texts released; any breakthrough on the 21 unresolved issues.
-7. **Cyclone Xavier (19 Nov bulletins)** — updated position/intensity; any land impact on the northern Cook Islands.
-8. **Cyclone Akvan (Bay of Bengal)** — confirm intensification to very severe cyclonic storm by evening 19 Nov; rainfall figures.
-9. **ATP Finals, Turin (Thursday)** — Zverev vs Fils result; doubles results.
-10. **House Democrats (Thu)** — Policy & Communications Committee co-chair vote result.
-11. **Hegseth Honduras visit (Thu)** — confirm visit + any announcement.
-12. **NASA Voyager 1 presser (Thu 12:00 EST)** — keep only if newsworthy; otherwise drop.
-13. **Huawei jury verdict** — confirm whether a verdict came Thu.
-14. **Las Vegas GP FP1/FP2 (Thu evening PT)** — results only usable if Pass 2 runs late morning (FP1 ends 08:30 WIB 20 Nov); otherwise drop.
-15. **Gaza operation** — any 19 Nov development (end of operation, casualties, reactions).
-16. **Iran/US Gulf** — any 19 Nov incident or statement; trilateral outcome is the first signpost.
-17. **GTA VI launch day** — launch-day sales/queue reports; any record-breaking figures (only if first reported 19 Nov).
-18. **Minor fillers (#21–23)** — verify primary sources (MyJoyOnline, Hespress, Linfodrome) + earliest publication; drop any that fail the republication check.
-19. **Fill gaps** — add ~12 stories to reach 35, prioritising Africa, South America and Oceania; check US market close, evening sports, and late-breaking news after the day closes.
+- **Asia — 8:** #1 Trilateral Shenzhen (LEAD), #6 Akvan, #7 India–Japan 2+2, #12 Negros quake, #17 Gaza operation completed, #18 Iran/Hormuz claim, #20 TSMC/Samsung chip pause, #34 Indonesia asset-forfeiture law.
+- **Europe — 6:** #2 ICJ ruling, #8 COP31, #9 UniCredit, #13 ATP Finals, #19 Kerch Bridge, #28 Berlin Coalition of the Willing.
+- **North America — 6:** #4 Anthropic IPO, #14 House Dems/McBride, #15 Hegseth Honduras, #16 Voyager 1 presser, #26 Wall Street sell-off, #32 NSA outage day 3.
+- **Oceania — 5:** #3 GTA VI, #5 Cyclone Xavier, #29 Albanese to Putin, #30 Melbourne Cup thefts, #35 Oceania Challenge bowls.
+- **Africa — 7:** #11 Kenya Mrima Hill minerals, #23 Jepchirchir ban, #24 SA beat Bangladesh, #25 Kenya mosquito nets, #27 Senegal budget decree, #31 Kwara prison (NCoS response), #33 Kenya Red Cross boats.
+- **South America — 3:** #10 Lula 6x1 decree, #21 Argentina trade surplus, #22 Colombia NYT denial.
+- Total: 8 + 6 + 6 + 5 + 7 + 3 = 35. All 6 continents covered.
 
 ---
 
-## Notes for the composition agent (Pass 2 / builder)
-- Two timezone-edge items are already at the max (UniCredit #9, Amnesty #11). Do NOT add more timezone-edge items in Pass 2 unless a clean 19 Nov story cannot be found for a continent.
-- The suggested LEAD is the Shenzhen trilateral — but only if it happens and produces a reportable outcome. If it is cancelled or produces nothing, the fallback lead is the ICJ ruling (#2) or the Anthropic IPO debut (#4).
+## WATCH FOR TOMORROW — RESOLVED (Pass 2)
+
+1. ✅ Trilateral — happened, four-point declaration, no Ukraine/Iran/trade deal (#1 LEAD).
+2. ✅ ICJ — GUILTY 9–6, first-ever state genocide finding (#2).
+3. ✅ Anthropic — first trade $111.50, close $97.17 (#4).
+4. ✅ Lula — signed, Decreto nº 13.173, two-stage (#10).
+5. ✅ 2+2 — joint statement issued (#7).
+6. ✅ COP31 — slimmed draft 14:10, fossil-fuel language removed (#8).
+7. ✅ Xavier — 19 Nov bulletins, Cat 4, Pukapuka approach (#5).
+8. ✅ Akvan — stayed severe, NO very-severe intensification; landfall revised (#6).
+9. ✅ ATP Finals — Zverev beat Fils 6-4, 7-6(6) (#13).
+10. ✅ House Dems — McBride elected co-chair, 248 votes (#14).
+11. ✅ Hegseth Honduras — arrived 19 Nov (#15).
+12. ✅ Voyager 1 presser — held, newsworthy (data reception lost) (#16).
+13. ❌ Huawei verdict — NO verdict Thu; dropped.
+14. ❌ Las Vegas GP — results not yet available at Pass 2 time; dropped.
+15. ✅ Gaza — operation completed Thu (#17).
+16. ✅ Iran/Gulf — IRGC tanker claim Thu, UNCONFIRMED (#18).
+17. ✅ GTA VI — launch-day figures ~19.1M / ~$1.84B, Metacritic 99 (#3).
+18. ❌ Fillers #21–23 — ALL dropped after primary-source checks (Ghana 18 Nov, Morocco 18 Nov, Koné 12 Nov).
+19. ✅ Gaps filled — Africa +3 net (Mrima Hill illustrated + Jepchirchir, SA cricket, Kenya nets, Senegal, Kwara, Kenya Red Cross), South America +2 (Argentina, Colombia), Oceania +3 (Albanese, Melbourne Cups, Oceania Challenge).
+
+---
+
+## Notes for the composition agent (builder)
+- **LEAD is #1, the Shenzhen trilateral** — it happened with a reportable outcome (four-point declaration). Fallbacks not needed.
+- Only ONE timezone-edge item in the set: UniCredit #9 (1 of max 2). Do NOT add more timezone-edge items.
 - Yesterday's formula to repeat: 35 stories + map + index + judge-address line + big date in masthead; PNG 1024×1024.
-- Borderline decisions in this pass: UniCredit (kept on Reuters Nov 19 dateline + 00:08 CET publication); Amnesty (kept on Amnesty Australia's 19 Nov date + 08:42 AEDT publication); GTA VI (global midnight rollout, 19 Nov in every market's local date); Xavier (weakening is the NEW development vs yesterday's Cat 5); Ebola (dropped — 19-Nov-dated republication of 18 Nov data, and already yesterday's #6).
+- Borderline decisions in this pass:
+  - UniCredit (kept on Reuters Nov 19 dateline + 00:08 CET publication).
+  - Kwara #31 (escape was 18 Nov; the 19 Nov news is the NCoS chief's visit + negligence finding — frame as the response, not the escape).
+  - NSA #32 (outage began 17 Nov; the 19 Nov news is the third day + Georgia facility + PHP cause).
+  - Kerch #19 (lead of the 20261117 entry, but a genuine NEW 19 Nov strike).
+  - Iran/Hormuz #18 (UNCONFIRMED claim — must be framed as a claim, not a fact).
+  - Melbourne Cups #30 (thefts 4–16 Nov; the 19 Nov news is the police reveal of the fourth cup + charges + court appearances).
+  - McBride #14 (vote tally discrepancy: 248 Axios/C-SPAN vs 238 her office — lead with 248, note the discrepancy if space allows).
+  - GTA VI #3 (global midnight rollout, 19 Nov in every market's local date; NZ first at 18 Nov 11:00 UTC).
+  - Mrima Hill #11 (deposit value estimates vary — do not state a single value as fact).
+- Figures DROPPED in Pass 2 — do not reintroduce: Anthropic "~$1.08T"; GTA "15.88M / $1.54B" (superseded by 19.1M / $1.84B); UniCredit "$1.43T" (use $1.4T); crictracker "130-year-old record" (unverified); Fils "no wins" (wrong — Fils 1-2).
+- Pass 1 borderline decisions (carried over): GTA VI global midnight rollout; Xavier weakening as the NEW development vs yesterday's Cat 5; Ebola dropped (19-Nov-dated republication of 18 Nov data, already yesterday's #6).
